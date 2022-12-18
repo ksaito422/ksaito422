@@ -5,15 +5,13 @@
   </a>
 </p>
 
-### 👻 Public Activities
+### 👻 Activities
 <p align="left">
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitooooooo&layout=compact&theme=tokyonight" />
   <img alt="GitHub stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=saitooooooo&theme=tokyonight&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitooooooo&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🛸 Private Activities
 
 <p align="left">
   <img alt="Profile Defaults" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitooooooo&theme=tokyonight" />
@@ -22,6 +20,9 @@
   <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitooooooo&theme=tokyonight" />
   <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitooooooo&theme=tokyonight&utcOffset=8" />
 </p>
+
+### 🛸 Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saitooooooo&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
   
 ### ⚙️ Powered By
 <p>
@@ -37,8 +38,11 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter" rel="nofollow noopener" target="_blank">
       <img src="https://img.shields.io/badge/-antonkomarev/github--profile--views--counter-000?logo=github&style=flat">
   </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" rel="nofollow noopener" target="_blank">
+      <img src="https://img.shields.io/badge/-denvercoder1/github--readme--streak--stats-000?logo=github&style=flat">
+  </a>
 </p>
-  
+
 <!--
 **saitooooooo/saitooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,3 +1,10 @@
+<p>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saitooooooo&color=blue&label=Views" />
+  <a href="https://zenn.dev/saito9" rel="nofollow noopener" target="_blank">
+      <img alt="Zenn" src="https://img.shields.io/badge/zenn-000?logo=zenn&style=flat" />
+  </a>
+</p>
+
 ### 👻 Public Activities
 <p align="left">
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitooooooo&layout=compact&theme=tokyonight" />

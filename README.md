@@ -1,13 +1,21 @@
-### 👻 Activities
+### 👻 Public Activities
 <p align="left">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitooooooo&layout=compact&theme=onedark" />
-  <img alt="GitHub stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=saitooooooo&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitooooooo&layout=compact&theme=tokyonight" />
+  <img alt="GitHub stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=saitooooooo&theme=tokyonight&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saitooooooo&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitooooooo&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛸 Private Activities
 
+<p align="left">
+  <img alt="Profile Defaults" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitooooooo&theme=tokyonight" />
+  <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saitooooooo&theme=tokyonight" />
+  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saitooooooo&theme=tokyonight" />
+  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitooooooo&theme=tokyonight" />
+  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitooooooo&theme=tokyonight&utcOffset=8" />
+</p>
+  
 ### ⚙️ Powered By
 <p>
   <a href="https://shields.io/" rel="nofollow noopener" target="_blank">

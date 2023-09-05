@@ -11,8 +11,6 @@
   <img alt="GitHub stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ksaito422&theme=tokyonight&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksaito422&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left">
   <img alt="Profile Defaults" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksaito422&theme=tokyonight" />
   <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksaito422&theme=tokyonight" />
